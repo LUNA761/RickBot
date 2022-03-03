@@ -1,3 +1,8 @@
+"""
+Copyright (c) 2022, Zach Lagden
+All rights reserved.
+"""
+
 from __future__ import annotations
 
 from typing import Any, List

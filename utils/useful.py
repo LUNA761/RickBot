@@ -1,3 +1,8 @@
+"""
+Copyright (c) 2022, Zach Lagden
+All rights reserved.
+"""
+
 import re
 import time
 import os

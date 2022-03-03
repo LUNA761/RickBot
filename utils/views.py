@@ -1,3 +1,8 @@
+"""
+Copyright (c) 2022, Zach Lagden
+All rights reserved.
+"""
+
 from typing import Optional
 
 import discord

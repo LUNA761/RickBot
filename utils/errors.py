@@ -1,3 +1,8 @@
+"""
+Copyright (c) 2022, Zach Lagden
+All rights reserved.
+"""
+
 import discord
 from discord.ext import commands
 

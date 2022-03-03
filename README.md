@@ -1,6 +1,6 @@
-### RickBot
+# RickBot
 
-#### A simple easy to use modular bot for creating complex bots. 
+### A simple easy to use modular bot for creating complex bots. 
 
 You can write your own cogs, features and helpers for rick.
 
